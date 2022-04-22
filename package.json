@@ -1,0 +1,16 @@
+{
+  "name": "end-to-end-test-tutorial",
+  "version": "1.0.0",
+  "description": "e2e test tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jake seo (n00nietzsche)",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "jest-puppeteer": "^6.1.0",
+    "puppeteer": "^13.6.0"
+  }
+}
