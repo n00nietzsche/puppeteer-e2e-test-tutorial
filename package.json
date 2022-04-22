@@ -4,6 +4,7 @@
   "description": "e2e test tutorial",
   "main": "index.js",
   "scripts": {
+    "e2e": "jest",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jake seo (n00nietzsche)",
